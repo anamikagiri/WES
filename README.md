@@ -7,6 +7,7 @@ Tools: FastQC and Trimmomatic (for trimming).
 
 Steps:
 Quality Control: Run FastQC on raw FASTQ files to assess quality (per base sequence quality, GC content, adapter contamination, etc.).
+
 Trimming: Use Trimmomatic to remove low-quality bases and adapter sequences from reads.
 
 ### Alignment to Reference Genome ###
@@ -16,6 +17,7 @@ Tools: BWA (Burrows-Wheeler Aligner), Samtools, Picard.
 Steps:
 Alignment: Align reads to the reference genome using BWA-MEM.
 Sort BAM: Use Samtools or Picard to sort the resulting BAM file.
+
 Mark Duplicates: Use Picard to mark duplicate reads.
 
 ### Post-alignment Processing ###
