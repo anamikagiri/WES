@@ -1,2 +1,2 @@
-# WGS
-Analysis of Whole Genome/Exome Sequencing data
+# Whole Genome Sequencing
+Pipeline to analyze Whole Genome Sequencing data
