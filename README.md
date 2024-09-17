@@ -1,2 +1,2 @@
-# Whole Genome Sequencing
-Pipeline to analyze Whole Genome Sequencing data
+# Whole Exome Sequencing
+Pipeline to analyze Whole Exome Sequencing data
